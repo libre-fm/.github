@@ -6,6 +6,8 @@
 
 * Support? Questions? support@libre.fm
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N41QGFXM)
+
 <!--
 
 **Here are some ideas to get you started:**
