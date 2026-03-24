@@ -1,6 +1,8 @@
 ## Libre.fm
 
-* This is the GitHub repo for Libre.fm, a music discovery platform.
+* This is the GitHub project for Libre.fm, a music discovery platform.
+
+* Most of the work is happening here: https://github.com/libre-fm/libre-fm-templates/
 
 * You can join Libre.fm at https://libre.fm
 
