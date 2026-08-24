@@ -4,11 +4,17 @@
 
 * Most of the work is happening here: https://github.com/libre-fm/libre-fm-templates/
 
+* Grab the GNU FM source code: https://github.com/libre-fm/gnu-fm
+
+* Changes made to GNU FM are available here: https://github.com/libre-fm/gnu-fm-changes
+
 * You can join Libre.fm at https://libre.fm
 
 * Support? Questions? support@libre.fm
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N41QGFXM)
+
+* Donations: https://libre.fm/donate.php
 
 <!--
 
