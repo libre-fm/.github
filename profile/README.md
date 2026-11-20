@@ -1,12 +1,10 @@
 ## Libre.fm
 
-* This is the GitHub project for Libre.fm, a music discovery platform.
+* This is the GitHub project for Libre.fm, a music discovery platform as well as the GNU FM project that runs it.
 
-* Most of the work is happening here: https://github.com/libre-fm/libre-fm-templates/
+* Most of the dev work is happening in templates for Libre.fm. 
 
-* Grab the GNU FM source code: https://github.com/libre-fm/gnu-fm
-
-* Changes made to GNU FM are available here: https://github.com/libre-fm/gnu-fm-changes
+* Download source code for everything at https://libre.fm/code/
 
 * You can join Libre.fm at https://libre.fm
 
